@@ -1,1 +1,3 @@
+npx vercel --prod
+
 npm run dev
